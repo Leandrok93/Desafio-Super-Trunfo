@@ -20,7 +20,7 @@ int main() {
     printf("Carta 1 \n"); //Iniciando Perguntas da Carta 1
 
     printf("Por favor informe uma letra de 'A' a 'H' (representando um dos oito estados): \n");
-    scanf("%s", estado1);
+    scanf("%c", estado1);
 
     printf("Por favor informe o código da cidade (A letra do estado seguida de um número de 01 a 04): \n");
     scanf("%s", codigo1);

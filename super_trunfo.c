@@ -95,7 +95,6 @@ int main() {
     printf("Numero de Pontos Turísticos: %d\n", pontos2);
 
     //Finalizando exibição dos Dados da Carta 2
-        return 0
+        return 0;
 
-    
 }

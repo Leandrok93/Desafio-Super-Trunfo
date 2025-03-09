@@ -71,7 +71,7 @@ int main() {
     //Iniciando a exibição dos Dados da Carta 1
     
     printf("Carta 01\n");
-    printf("Estado: %s\n", estado1);
+    printf("Estado: %c\n", estado1);
     printf("Código da Carta: %s\n", codigo1);
     printf("Nome da Cidade: %s\n", nome1);
     printf("População: %d\n", populacao1);
@@ -86,7 +86,7 @@ int main() {
     //Iniciando exibição dos Dados da Carta 2
 
     printf("Carta 02\n");
-    printf("Estado: %s\n", estado2);
+    printf("Estado: %c\n", estado2);
     printf("Código da Carta: %s\n", codigo2);
     printf("Nome da Cidade: %s\n", nome2);
     printf("População: %d\n", populacao2);

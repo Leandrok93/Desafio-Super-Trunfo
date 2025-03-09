@@ -96,4 +96,6 @@ int main() {
 
     //Finalizando exibição dos Dados da Carta 2
         return 0
+
+    
 }

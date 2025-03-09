@@ -41,7 +41,7 @@ int main() {
     scanf("%d", &pontos1); 
     //Finalizando as Perguntas da primeira carta
 
-    printf("\n")
+    printf("\n");
 
     printf("Carta 2 \n"); //Iniciando Perguntas da Carta 2
 
@@ -70,7 +70,7 @@ int main() {
     
     //Iniciando a exibição dos Dados da Carta 1
     
-    printf("Carta 01\n")
+    printf("Carta 01\n");
     printf("Estado: %s\n", estado1);
     printf("Código da Carta: %s\n", codigo1);
     printf("Nome da Cidade: %s\n", nome1);
@@ -81,11 +81,11 @@ int main() {
 
     //Finalizando exibição dos Dados da Carta 1
 
-    printf("\n")
+    printf("\n");
 
     //Iniciando exibição dos Dados da Carta 2
 
-    printf("Carta 02\n")
+    printf("Carta 02\n");
     printf("Estado: %s\n", estado2);
     printf("Código da Carta: %s\n", codigo2);
     printf("Nome da Cidade: %s\n", nome2);

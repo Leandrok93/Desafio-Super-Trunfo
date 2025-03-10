@@ -115,12 +115,12 @@ int main() {
     // Comparar Atributo
 
     printf("Comparação de cartas (Atributo: População):\n");
-    printf("Carta 1 - %s(%c): %.2f", nome1, estado1, populacao1);
-    printf("Carta 2 - %s(%c): %.2f", nome2, estado2, populacao2);
+    printf("Carta 1 - %s(%c): %.2f\n", nome1, estado1, populacao1);
+    printf("Carta 2 - %s(%c): %.2f\n", nome2, estado2, populacao2);
     if (populacao1 > populacao2){
-        printf("Resultado: Carta 1 (%s) venceu", nome1);
+        printf("Resultado: Carta 1 (%s) venceu\n", nome1);
     } else {
-        printf("Resultado: Carta 2 (%s) venceu", nome2);
+        printf("Resultado: Carta 2 (%s) venceu\n", nome2);
     }
 
     // Definir qual carta ganha
